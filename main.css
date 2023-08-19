@@ -377,11 +377,3 @@ h3
         transform: translateY(-2000px);
     }
 }
-.ko-fi::after {
-      content: '\f004';
-      font-weight: 900;
-      font-size: 15px;
-      color: #fff;
-      position: absolute;
-      margin: 20px 0 0 -32px;
-}
