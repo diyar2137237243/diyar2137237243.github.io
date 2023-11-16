@@ -377,6 +377,7 @@ h3
         transform: translateY(-2000px);
     }
 }
+/* ko-fi icon */
 .fa-ko-fi::before {
 	content: "\f0f4";
 	display: inline-block;
