@@ -388,9 +388,9 @@ h3
 	padding-top: 0.45em;
 }
 .fa-ko-fi::after {
-	color: #000;
+	color: #ff547c;
 	content: "\f004";
-	font-size: 50%;
+	font-size: 56%;
 	font-weight: 900;
 	margin: 0.5em 0 0 -2em;
 	position: absolute;
